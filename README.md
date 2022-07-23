@@ -1,4 +1,6 @@
 # odin-recipes
+AA quick recipe book showcasing my first html project.
+
 To easily identify what skills I am practicing in this project I shall list them here.
 
 1. Practiced using Git and Github for the first time, creating a new repository, committing valuable changes, proper commit comments for longevity, etc.
