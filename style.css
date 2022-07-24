@@ -1,0 +1,49 @@
+h1, h2, p, ul, ol {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#title {
+    border: 10px ridge gold;
+    border-radius: 15px;
+    color: red;
+    text-align: center;
+
+}
+
+img {
+    height: auto;
+    width: 350px;
+}
+
+img.odin-logo {
+    height:auto;
+    width: 175px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.recipe-main {
+    font-size: 20px;
+    border: 1ch double gold;
+    text-align: center;
+}
+
+h2 {
+    border-bottom: 2px;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-style: solid;
+}
+
+a.back-button {
+    background-color: green;
+    color: white;
+    border: 5px solid green;
+    border-radius: 15px;
+    appearance: button;
+}
