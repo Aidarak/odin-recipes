@@ -1,7 +1,7 @@
 # odin-recipes
 A quick recipe book showcasing my first html project.
 
-To easily identify what skills I am practicing in this project I have listed them here.
+Outcomes:
 
 1. Practiced using Git and Github for the first time, creating a new repository, committing valuable changes, proper commit comments for longevity
 2. Practice HTML; creating HTML boilerplate, proper file structure, links (relative), images, paragraphs
