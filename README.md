@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipe Book
 A quick recipe book showcasing my first html project.
 
 Outcomes:
